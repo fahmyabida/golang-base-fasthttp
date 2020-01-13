@@ -1,0 +1,12 @@
+{
+  "service_name": "LABBAIKA-GAJI",
+  "ip_database":"",
+  "port_database":"",
+  "user_database":"admin",
+  "password_database":"admin",
+  "name_database":"gaji",
+  "config_name":"labbaika-gaji_v1",
+  "log_path":"logs",
+  "timeout":"1m",
+  "port_server":"8080"
+}
